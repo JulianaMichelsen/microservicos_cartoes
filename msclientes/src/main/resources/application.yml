@@ -6,7 +6,7 @@ server:
   port: 8762
 
 eureka:
-  cliente:
+  client:
     service-url:
       defaultZone: http://localhost:8761/eureka
   instance:
